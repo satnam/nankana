@@ -4,27 +4,25 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Welcome to the about page! This is the page you will use to customize to share a little bit about your gurdwara or community location. You can remove this message when you setup your site.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Gurdwara Nankana Sahib is a prominent gurdwara in Sikhism, built by Maharaja Ranjit Singh in the 19th century to mark the birthplace of the founder of Sikhism, Guru Nanak Dev Ji. It is situated on the site of his parental home in Rai Bhoi Ki Talvandi, called [Nankana Sahib](http://www.punjab.gov.pk/nankana). It is near Lahore in the Punjab province in Pakistan.
 
-There are currently two themes built on Poole:
+## Location and Directions
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Gurdwara Nankana Sahib is located on Bucheki Nankana Sahib Road in Nankana Sahib, Pakistan.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+[![Google Map of Buchey Ki Nankana Sahib Road, Nankana Sahib, Pakistan](http://maps.googleapis.com/maps/api/staticmap?center=Buchey+Ki+Nankana+Sahib+Road,+Nankana+Sahib,+Pakistan&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CBuchey+Ki+Nankana+Sahib+Road,+Nankana+Sahib,+Pakistan)](https://www.google.com/maps/place/Buchey+Ki+Nankana+Sahib+Road,+Nankana+Sahib,+Pakistan/)
 
-## Setup
+## About Nankana
 
-Some fun facts about the setup of this project include:
+This website was created using a theme called [Hyde](http://hyde.getpoole.com) that was developed by [Mark Otto](http://github.com/mdo). The goal of creating this sample website was to make it easier for gurdwaras and others within the Sikh community to build websites designed for mobile users first that can be viewed from any device.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+### What's Jekyll?
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Jekyll is a simple, static website and blog generator. It is responsible for taking raw text files and converting them into a complete static website that is ready to publish on your own web server or for free on GitHub.
 
-Thanks for reading!
+### What's GitHub Pages?
+
+[GitHub Pages](https://pages.github.com) are public webpages hosted and published through GitHub. Using GitHub Pages eliminates the need to pay for a web server to host your website. Before using GitHub Pages to host your website, be advised that that all of your files are publicly visible. Before publishing your site, be sure to remove any senisitive information from your repository.
